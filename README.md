@@ -17,10 +17,11 @@ các bước thực hiện:
 *   tập test ~ 400 ảnh (lấy độc lập với tập train)
   
 +đưa vào mô hình CNN (file map2.ipynb)
-* khó khăn gặp phải :
-+nguồn thu thập data còn ít nên ảnh hưởng tới kết quả
 
-+kết quả test còn chưa tốt, em đang tìm cách xử lý ảnh trước khi đưa vào predict. do dữ liệu train với nhãn 1 chỉ chứa bản đồ,
++khó khăn gặp phải :
+*   nguồn thu thập data còn ít nên ảnh hưởng tới kết quả
+
+*   kết quả test còn chưa tốt, em đang tìm cách xử lý ảnh trước khi đưa vào predict. do dữ liệu train với nhãn 1 chỉ chứa bản đồ,
 nên em hướng tới việc tìm ra phần chứa bản đồ để kết quả 
 
   
